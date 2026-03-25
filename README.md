@@ -16,6 +16,8 @@ In the master branch you will find the java project divided into two folders, (i
 - Param.txt: The configuration file (detailed above)
 - RuleBase.txt: The generated rules as well as their confidence factor
 
+We also provides a .xlsx file containing the obtaining the detailed results in training and test in the cross-validation step. Also, to better understand the learning process of the q exponent we provide in the folder FAR-HD the original paper (which can also be fount at: "https://sci2s.ugr.es/keel/pdf/algorithm/articulo/alcala_herrera_IEEE_TFS(Association_Classification_for_High_Dimensional_Problems).pdf").
+
 
 # Parameters
 To run the code you have to open the project in an IDE and config a parameter set-up, which is available at the file 'param.txt'. The parameters related with the program are the ones orignaly sugested by the authors combined with the new FRM and are composed as the following:
