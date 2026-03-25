@@ -1,0 +1,7 @@
+6  ./data/cleveland/cleveland-5-1tra.dat
+4  ./data/autos/autos-5-1tra.dat
+4  ./data/autos/autos-5-1tra.dat
+4  ./data/autos/autos-5-1tra.dat
+4  ./data/autos/autos-5-1tra.dat
+4  ./data/autos/autos-5-1tra.dat
+4  ./data/autos/autos-5-1tra.dat

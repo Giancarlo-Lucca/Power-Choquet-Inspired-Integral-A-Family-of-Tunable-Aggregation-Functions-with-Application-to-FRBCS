@@ -1,0 +1,124 @@
+@Number of rules: 59 Number of Antecedents by rule: 2.6779661016949152
+
+1: make IS L_21(22) AND body-style IS L_2(5) AND width IS L_2(5): -2 CF: 0.9850746268656726
+2: make IS L_21(22) AND body-style IS L_2(5) AND wheel-base IS L_2(5): -2 CF: 1.0
+3: normalized-losses IS L_0(5) AND make IS L_19(22) AND fuel-system IS L_5(8): -1 CF: 1.0
+4: normalized-losses IS L_0(5) AND make IS L_19(22) AND aspiration IS L_1(2): -1 CF: 1.0
+5: make IS L_9(22) AND num-of-doors IS L_0(2): -1 CF: 1.0
+6: make IS L_11(22) AND aspiration IS L_0(2) AND fuel-system IS L_6(8): -1 CF: 1.0
+7: make IS L_19(22) AND aspiration IS L_1(2): -1 CF: 1.0
+8: make IS L_19(22) AND num-of-doors IS L_0(2) AND fuel-system IS L_5(8): -1 CF: 1.0
+9: make IS L_21(22) AND width IS L_3(5): -1 CF: 0.8636363636363628
+10: make IS L_21(22) AND wheel-base IS L_3(5): -1 CF: 0.8479809976247031
+11: fuel-type IS L_1(2) AND aspiration IS L_0(2) AND fuel-system IS L_6(8): -1 CF: 1.0
+12: drive-wheels IS L_1(3) AND height IS L_4(5) AND highway-mpg IS L_1(5): -1 CF: 0.9341317365269461
+13: drive-wheels IS L_1(3) AND height IS L_4(5) AND city-mpg IS L_1(5): -1 CF: 0.9102844638949672
+14: make IS L_13(22): 0 CF: 1.0
+15: normalized-losses IS L_0(5) AND body-style IS L_2(5) AND fuel-system IS L_1(8): 0 CF: 0.9520833333333335
+16: normalized-losses IS L_0(5) AND body-style IS L_2(5) AND height IS L_1(5): 0 CF: 0.9363643392870953
+17: normalized-losses IS L_2(5) AND num-of-doors IS L_0(2) AND drive-wheels IS L_2(3): 0 CF: 1.0
+18: make IS L_5(22) AND num-of-doors IS L_0(2): 0 CF: 1.0
+19: make IS L_8(22) AND num-of-doors IS L_0(2) AND width IS L_2(5): 0 CF: 0.7801047120418845
+20: make IS L_12(22) AND num-of-doors IS L_0(2) AND wheel-base IS L_2(5): 0 CF: 0.9529837251356236
+21: make IS L_18(22) AND num-of-doors IS L_0(2): 0 CF: 1.0
+22: make IS L_19(22) AND num-of-doors IS L_0(2) AND wheel-base IS L_1(5): 0 CF: 0.8750000000000001
+23: fuel-type IS L_1(2) AND num-of-doors IS L_0(2) AND peak-rpm IS L_1(5): 0 CF: 0.7647058823529411
+24: fuel-type IS L_1(2) AND num-of-doors IS L_0(2) AND fuel-system IS L_0(8): 0 CF: 1.0
+25: length IS L_3(5) AND curb-weight IS L_3(5) AND peak-rpm IS L_0(5): 0 CF: 0.7912975473082119
+26: make IS L_1(22) AND drive-wheels IS L_1(3) AND num-of-cylinders IS L_1(7): 1 CF: 1.0
+27: make IS L_5(22) AND num-of-doors IS L_1(2) AND wheel-base IS L_1(5): 1 CF: 1.0
+28: make IS L_12(22) AND aspiration IS L_0(2) AND num-of-doors IS L_1(2): 1 CF: 0.75
+29: make IS L_19(22) AND num-of-doors IS L_1(2) AND body-style IS L_2(5): 1 CF: 1.0
+30: fuel-type IS L_1(2) AND drive-wheels IS L_1(3) AND num-of-cylinders IS L_1(7): 1 CF: 1.0
+31: aspiration IS L_1(2) AND drive-wheels IS L_1(3) AND height IS L_1(5): 1 CF: 0.8620689655172408
+32: aspiration IS L_1(2) AND height IS L_1(5) AND engine-type IS L_3(7): 1 CF: 0.8620689655172408
+33: num-of-doors IS L_1(2) AND body-style IS L_2(5) AND drive-wheels IS L_2(3): 1 CF: 1.0
+34: num-of-doors IS L_1(2) AND engine-type IS L_3(7) AND fuel-system IS L_1(8): 1 CF: 0.8333333333333334
+35: wheel-base IS L_1(5) AND length IS L_1(5) AND engine-type IS L_3(7): 1 CF: 0.7445609672172175
+36: wheel-base IS L_1(5) AND engine-type IS L_3(7) AND fuel-system IS L_1(8): 1 CF: 0.7058340180772392
+37: height IS L_1(5) AND engine-type IS L_3(7) AND fuel-system IS L_1(8): 1 CF: 0.6754807692307687
+38: make IS L_20(22): 2 CF: 0.8333333333333334
+39: normalized-losses IS L_2(5) AND make IS L_1(22) AND width IS L_2(5): 2 CF: 1.0
+40: make IS L_1(22) AND width IS L_2(5): 2 CF: 1.0
+41: make IS L_11(22) AND aspiration IS L_0(2) AND body-style IS L_3(5): 2 CF: 1.0
+42: make IS L_11(22) AND aspiration IS L_0(2) AND num-of-doors IS L_1(2): 2 CF: 1.0
+43: make IS L_17(22) AND num-of-doors IS L_0(2): 2 CF: 1.0
+44: make IS L_18(22) AND body-style IS L_3(5): 2 CF: 1.0
+45: make IS L_18(22) AND num-of-doors IS L_1(2): 2 CF: 1.0
+46: make IS L_19(22) AND horsepower IS L_2(5) AND peak-rpm IS L_1(5): 2 CF: 0.9810426540284362
+47: fuel-type IS L_1(2) AND body-style IS L_0(5): 2 CF: 1.0
+48: fuel-type IS L_1(2) AND wheel-base IS L_0(5) AND length IS L_0(5): 2 CF: 0.9924687044136111
+49: aspiration IS L_0(2) AND body-style IS L_0(5): 2 CF: 1.0
+50: aspiration IS L_0(2) AND wheel-base IS L_0(5) AND length IS L_0(5): 2 CF: 0.9924687044136111
+51: length IS L_2(5) AND height IS L_3(5) AND fuel-system IS L_5(8): 2 CF: 0.7495146329186733
+52: width IS L_2(5) AND compression-ratio IS L_4(5) AND highway-mpg IS L_3(5): 2 CF: 0.9458099755641801
+53: engine-type IS L_3(7) AND fuel-system IS L_5(8) AND peak-rpm IS L_1(5): 2 CF: 0.8500000000000001
+54: normalized-losses IS L_4(5) AND num-of-cylinders IS L_2(7): 3 CF: 1.0
+55: normalized-losses IS L_4(5) AND engine-type IS L_3(7): 3 CF: 1.0
+56: make IS L_17(22) AND body-style IS L_3(5): 3 CF: 1.0
+57: fuel-type IS L_1(2) AND num-of-doors IS L_1(2) AND city-mpg IS L_0(5): 3 CF: 0.9052631578947369
+58: fuel-type IS L_1(2) AND num-of-doors IS L_1(2) AND horsepower IS L_3(5): 3 CF: 0.8577075098814231
+59: aspiration IS L_1(2) AND num-of-doors IS L_1(2) AND length IS L_2(5): 3 CF: 0.963128491620111
+
+
+@supp and CF:
+
+1: supp: 0.009117281392457493 AND CF: 0.9850746268656726
+2: supp: 0.008797176215042078 AND CF: 1.0
+3: supp: 0.019499525910046587 AND CF: 1.0
+4: supp: 0.007874015748031496 AND CF: 1.0
+5: supp: 0.023622047244094488 AND CF: 1.0
+6: supp: 0.007874015748031496 AND CF: 1.0
+7: supp: 0.007874015748031496 AND CF: 1.0
+8: supp: 0.023622047244094488 AND CF: 1.0
+9: supp: 0.041994750656167874 AND CF: 0.8636363636363628
+10: supp: 0.03877273961444475 AND CF: 0.8479809976247031
+11: supp: 0.007874015748031496 AND CF: 1.0
+12: supp: 0.010498687664041995 AND CF: 0.9341317365269461
+13: supp: 0.014821676702176934 AND CF: 0.9102844638949672
+14: supp: 0.05511811023622047 AND CF: 1.0
+15: supp: 0.018839922496598924 AND CF: 0.9520833333333335
+16: supp: 0.01920143590589231 AND CF: 0.9363643392870953
+17: supp: 0.06340437811765676 AND CF: 1.0
+18: supp: 0.031496062992125984 AND CF: 1.0
+19: supp: 0.02058295344660866 AND CF: 0.7801047120418845
+20: supp: 0.02861797447732832 AND CF: 0.9529837251356236
+21: supp: 0.06299212598425197 AND CF: 1.0
+22: supp: 0.04105348900352967 AND CF: 0.8750000000000001
+23: supp: 0.14205367186244575 AND CF: 0.7647058823529411
+24: supp: 0.023622047244094488 AND CF: 1.0
+25: supp: 0.020780222528246656 AND CF: 0.7912975473082119
+26: supp: 0.015748031496062992 AND CF: 1.0
+27: supp: 0.020418137387998928 AND CF: 1.0
+28: supp: 0.047244094488188976 AND CF: 0.75
+29: supp: 0.015748031496062992 AND CF: 1.0
+30: supp: 0.015748031496062992 AND CF: 1.0
+31: supp: 0.01514233797698364 AND CF: 0.8620689655172408
+32: supp: 0.01514233797698364 AND CF: 0.8620689655172408
+33: supp: 0.015748031496062992 AND CF: 1.0
+34: supp: 0.11811023622047244 AND CF: 0.8333333333333334
+35: supp: 0.134508232728268 AND CF: 0.7445609672172175
+36: supp: 0.186587021449905 AND CF: 0.7058340180772392
+37: supp: 0.08509993943064786 AND CF: 0.6754807692307687
+38: supp: 0.03937007874015748 AND CF: 0.8333333333333334
+39: supp: 0.013057543888579073 AND CF: 1.0
+40: supp: 0.014090343970161599 AND CF: 1.0
+41: supp: 0.015748031496062992 AND CF: 1.0
+42: supp: 0.015748031496062992 AND CF: 1.0
+43: supp: 0.015748031496062992 AND CF: 1.0
+44: supp: 0.015748031496062992 AND CF: 1.0
+45: supp: 0.015748031496062992 AND CF: 1.0
+46: supp: 0.035014420189957464 AND CF: 0.9810426540284362
+47: supp: 0.031496062992125984 AND CF: 1.0
+48: supp: 0.01808220145736618 AND CF: 0.9924687044136111
+49: supp: 0.031496062992125984 AND CF: 1.0
+50: supp: 0.01808220145736618 AND CF: 0.9924687044136111
+51: supp: 0.01026576649776196 AND CF: 0.7495146329186733
+52: supp: 0.010099614741139814 AND CF: 0.9458099755641801
+53: supp: 0.049172424875461994 AND CF: 0.8500000000000001
+54: supp: 0.007874015748031496 AND CF: 1.0
+55: supp: 0.007874015748031496 AND CF: 1.0
+56: supp: 0.015748031496062992 AND CF: 1.0
+57: supp: 0.0398332561371005 AND CF: 0.9052631578947369
+58: supp: 0.0449647741400746 AND CF: 0.8577075098814231
+59: supp: 0.02207285064976634 AND CF: 0.963128491620111

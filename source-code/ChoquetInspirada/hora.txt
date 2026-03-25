@@ -1,0 +1,7 @@
+00:00:06  ./data/cleveland/cleveland-5-1tra.dat
+00:00:04  ./data/autos/autos-5-1tra.dat
+00:00:04  ./data/autos/autos-5-1tra.dat
+00:00:04  ./data/autos/autos-5-1tra.dat
+00:00:04  ./data/autos/autos-5-1tra.dat
+00:00:04  ./data/autos/autos-5-1tra.dat
+00:00:04  ./data/autos/autos-5-1tra.dat
